@@ -45,7 +45,7 @@ const Profile = lazy(
 
 function AppRoutes() {
   return (
-    <BrowserRouter>
+    <BrowserRouter  basename="/saas-admin-dashboard">
       <Suspense
         fallback={
           <div className="flex min-h-screen items-center justify-center bg-slate-50 text-sm text-slate-600 dark:bg-slate-950 dark:text-slate-400">
