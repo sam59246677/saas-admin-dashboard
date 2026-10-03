@@ -6,6 +6,10 @@ A modern and responsive **SaaS Admin Dashboard** built with React, TypeScript, T
 
 [View Live Demo](https://sam59246677.github.io/saas-admin-dashboard/)
 
+## 📸 Preview
+
+![SaaS Admin Dashboard](./dashboard-preview.png)
+
 ## 📌 About the Project
 
 This project is a responsive admin dashboard designed for managing users, products, transactions, analytics, and application settings.
